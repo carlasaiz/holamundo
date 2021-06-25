@@ -10,7 +10,7 @@
  define( 'DB_HOST', 'localhost' );
  define( 'DB_USER', 'phpmyadmin' );
  define( 'DB_PASSWORD', 'p@ssw0rd' );
- define( 'DB_DATABASE', 'microcms' );
+ define( 'DB_DATABASE', 'microcmss' );
  define( 'DB_PORT', '3306' );
 
  
